@@ -25,11 +25,13 @@ Prepared data model in Power BI
 
 Analysis & Insights
  Attrition by gender 
- <img width="1919" height="1020" alt="Screenshot 2026-03-04 130238" src="https://github.com/user-attachments/assets/5fe0032a-934c-4672-8786-df13d6598867" />
+ <img width="1915" height="1017" alt="Screenshot 2026-03-04 130401" src="https://github.com/user-attachments/assets/4d100ef2-acb6-4443-9413-7a15045a671f" />
+
 
 
  Attrition by Job Role
-<img width="1919" height="1020" alt="Screenshot 2026-03-04 130831" src="https://github.com/user-attachments/assets/4626a64e-3f04-43f3-a5bc-8c09344c7bd3" />
+ <img width="1919" height="1016" alt="Screenshot 2026-03-04 131139" src="https://github.com/user-attachments/assets/9386d047-729d-4a43-bfe3-2aaa723130c3" />
+
 
 Sales Executive & Laboratory Technician roles show higher attrition
 
